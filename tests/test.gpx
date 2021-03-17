@@ -10,8 +10,7 @@
         <ele>763</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
-            <gpxtpx:hr/>
-            <gpxtpx:cad/>
+            <gpxtpx:hr>70</gpxtpx:hr>
           </gpxtpx:TrackPointExtension>
         </extensions>
       </trkpt>
@@ -20,7 +19,7 @@
         <ele>763</ele>
         <extensions>
           <gpxtpx:TrackPointExtension>
-            <gpxtpx:hr>70</gpxtpx:hr>
+            <gpxtpx:hr>140</gpxtpx:hr>
             <gpxtpx:cad/>
           </gpxtpx:TrackPointExtension>
         </extensions>
